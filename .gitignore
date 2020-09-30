@@ -9,6 +9,7 @@ __pycache__/
 local_settings.py
 wisdompets/wisdompets/settings.py
 wisdompets/db.sqlite3
+wisdompets/wisdompets/__pycache__/
 db.sqlite3
 db.sqlite3-journal
 media
